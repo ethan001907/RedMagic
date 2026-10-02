@@ -1,5 +1,4 @@
 # RedMagic
-
 Red Magic:a wonderful story to read and listen
 
 ---
