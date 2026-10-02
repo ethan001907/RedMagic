@@ -1,5 +1,9 @@
 # RedMagic
 
+Red Magic:a wonderful story to read and listen
+
+---
+
 Go here:
 https://nas.ha-box.xyz/Red%20Magic
 
